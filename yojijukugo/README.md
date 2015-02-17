@@ -1,0 +1,1 @@
+These are *yojijukugo* ([四字熟語](https://en.wikipedia.org/wiki/Yojijukugo)), or four-character Japanese idiomatic compounds.
